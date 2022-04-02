@@ -1,4 +1,4 @@
 # JavaScript Slideshow
 Simple JavaScript slideshow
 
-<img src="slideshow.PNG" />
+<img src="js-slideshow.png" />
